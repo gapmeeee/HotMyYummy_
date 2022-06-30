@@ -43,4 +43,5 @@ public class Weapon : MonoBehaviour
         pos = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.GetChild(0).position;
         transform.GetChild(0).eulerAngles = new Vector3(0, 0, Mathf.Rad2Deg * Mathf.Atan2(pos.y, pos.x) - 90);
     }
+
 }
