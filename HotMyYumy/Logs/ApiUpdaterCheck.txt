@@ -38,3 +38,23 @@ C# parse time         : 132ms
 candidates check time : 21ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 30.06.2022 23:11:19 : Starting B:/Новая папка (2)/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1532,9278ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 1089ms
+candidates check time : 49ms
+console write time    : 203ms
+
+[api-updater (non-obsolete-error-filter)] 01.07.2022 2:08:04 : Starting B:/Новая папка (2)/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 643,5675ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 169ms
+candidates check time : 27ms
+console write time    : 0ms
+
